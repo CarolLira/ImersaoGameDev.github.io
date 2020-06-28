@@ -7,6 +7,7 @@ Durante 5 dias foi feito um jogo 2D utilizando:
 - P5.js
 
 Funcionalidades adicionadas no jogo:
+- Animação de sprites
 - Perder vida
 - Colidir com inimigos
 - Modificar fase utilizando mapa
