@@ -10,7 +10,7 @@ Funcionalidades adicionadas no jogo:
 - [x] Animação de sprites
 - [x] Perder vida
 - [x] Colidir com inimigos
-- [x] Modificar fase utilizando mapa .json
+- [x] Modificar inimigos atuais utilizando mapa .json
 - [x] Elementos que aparecem aleatóriamente no cenário
 - [x] Apresentação da história
 - [x] Botões de controle
