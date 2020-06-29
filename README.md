@@ -3,7 +3,7 @@
 Durante 5 dias foi feito um jogo 2D utilizando:
 - HTML
 - CSS
-- Javascript
+- JavaScript
 - P5.js
 
 Funcionalidades adicionadas no jogo:
