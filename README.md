@@ -7,11 +7,11 @@ Durante 5 dias foi feito um jogo 2D utilizando:
 - P5.js
 
 Funcionalidades adicionadas no jogo:
-- Animação de sprites
-- Perder vida
-- Colidir com inimigos
-- Modificar fase utilizando mapa
-- Elementos que aparecem aleatóriamente no cenário
-- Apresentação da história
-- Botões de controle
-- Controle de pulo e gravidade 
+- [x] Animação de sprites
+- [x] Perder vida
+- [x] Colidir com inimigos
+- [x] Modificar fase utilizando mapa .json
+- [x] Elementos que aparecem aleatóriamente no cenário
+- [x] Apresentação da história
+- [x] Botões de controle
+- [x] Controle de pulo e gravidade 
