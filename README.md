@@ -1,12 +1,12 @@
 # Certificado da Imersão Gamedev JavaScript
 
-Durante 5 dias foi feito um jogo 2D utilizando:
+##Durante 5 dias foi feito um jogo 2D utilizando:
 - HTML
 - CSS
 - JavaScript
 - P5.js
 
-Funcionalidades adicionadas no jogo:
+##Funcionalidades adicionadas no jogo:
 - [x] Animação de sprites
 - [x] Perder vida
 - [x] Colidir com inimigos
