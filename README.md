@@ -1,5 +1,7 @@
 # Certificado da Imersão Gamedev JavaScript
 
+![](assets/certificado.png)
+
 ## Durante 5 dias foi feito um jogo 2D utilizando:
 - HTML
 - CSS
